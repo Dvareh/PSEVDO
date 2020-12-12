@@ -1,0 +1,185 @@
+img {
+	width : 400px;
+	height: 300px;
+}
+table, th, td {
+  border: 1px solid yellow;
+  color: white;
+}
+body {
+  background-color: black;
+}
+h1 {
+	color: white;
+}
+
+p {
+	color: white;
+}
+a {
+	color: white;
+}
+#First {
+	color:black;
+	background: yellow;
+}
+#Firs {
+	background: purple;
+
+}
+#Fir {
+	background: blue;
+}
+#Fi {
+	background:  orange;
+}
+#F {
+	background:  green;
+}
+#Redc {
+	background: red;
+}
+
+img:hover {
+ width: 500px;
+ height: 400px;
+  transition-duration: 1s;
+  animation-duration: 1s;
+
+  
+}
+#First1 {
+	color:black;
+	background: yellow;
+}
+#Firs1 {
+	background: purple;
+
+}
+#Fir1 {
+	background: blue;
+}
+#Fi1 {
+	background:  orange;
+}
+#F1 {
+	background:  green;
+}
+#Redc1 {
+	background: red;
+}
+#First1:hover {
+	color: yellow;
+}
+#Firs1:hover {
+	color: purple;
+
+}
+#Fir1:hover {
+	color: blue;
+
+}
+#Fi1:hover {
+color: orange;
+}
+#F1:hover {
+	color: green;
+}
+#Redc1:hover {
+	color: red;
+}
+img {
+	transition: width 2s, height 2s;
+}
+#mipng {
+     background-size: 300%,100%;
+     
+	background-image:linear-gradient(90deg,#c33b22 , #fdbb2d , #c33b22 , #fdbb2d);
+	animation: animka 2s infinite linear  ; 
+
+}
+@keyframes animka {
+	0% {background-position: 0,0;
+	}
+100% {background-position: 100%,0;
+}
+ }
+
+ 
+ }
+ #popng {
+     background-size: 300%,100%;
+     
+	background-image:linear-gradient(90deg,#690b88 , #3c2dfd , #690b88 , #3c2dfd);
+	animation: animka 2s infinite linear  ; 
+
+}
+@keyframes animka {
+	0% {background-position: 0,0;
+	}
+100% {background-position: 100%,0;
+}
+ }
+
+ 
+ 
+ #spapng {
+     background-size: 300%,100%;
+     
+	background-image:linear-gradient(90deg,#07aebd , #3c2dfd, #07aebd , #3c2dfd);
+	animation: animka 2s infinite linear  ; 
+
+}
+@keyframes animka {
+	0% {background-position: 0,0;
+	}
+100% {background-position: 100%,0;
+}
+ }
+
+ 
+ 
+ #soupng {
+     background-size: 300%,100%;
+     
+	background-image:linear-gradient(90deg,#ffa900, #fde82d, #ffa900 , #fde82d);
+	animation: animka 2s infinite linear  ; 
+
+}
+@keyframes animka {
+	0% {background-position: 0,0;
+	}
+100% {background-position: 100%,0;
+}
+}
+#timpng {
+     background-size: 300%,100%;
+     
+	background-image:linear-gradient(90deg,#00ff82, #2ffd2d, #00ff82 , #2ffd2d);
+	animation: animka 2s infinite linear  ; 
+
+}
+@keyframes animka {
+	0% {background-position: 0,0;
+	}
+100% {background-position: 100%,0;
+}
+}
+#reapng {
+     background-size: 300%,100%;
+     
+	background-image:linear-gradient(90deg,#ff6000, #fd2e2d, #ff6000 ,#fd2e2d);
+	animation: animka 2s infinite linear  ; 
+
+}
+@keyframes animka {
+	0% {background-position: 0,0;
+	}
+100% {background-position: 100%,0;
+}
+}
+a:link {
+ 	background-color: red;}
+a:visited {
+	background-color: blue;
+}
